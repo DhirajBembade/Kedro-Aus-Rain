@@ -1,0 +1,155 @@
+2022-10-15 13:26:01,557 - kedro.ipython - INFO - Kedro project weather_us
+2022-10-15 13:26:01,563 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2022-10-15 13:26:01,616 - py.warnings - WARNING - C:\work\weather_us\venv\lib\site-packages\tornado\ioloop.py:265: DeprecationWarning: There is no current event loop
+  loop = asyncio.get_event_loop()
+
+2022-10-15 13:28:32,579 - kedro.ipython - INFO - No path argument was provided. Using: C:\work\weather_us\weather-us
+2022-10-15 13:28:33,230 - kedro.ipython - INFO - Kedro project weather_us
+2022-10-15 13:28:33,241 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2022-10-15 13:35:57,610 - kedro.ipython - INFO - No path argument was provided. Using: C:\work\weather_us\weather-us
+2022-10-15 13:42:49,699 - kedro.ipython - INFO - No path argument was provided. Using: C:\work\weather_us\weather-us
+2022-10-15 13:51:00,576 - kedro.ipython - INFO - Kedro project weather_us
+2022-10-15 13:51:00,580 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2022-10-15 13:51:00,606 - py.warnings - WARNING - C:\work\weather_us\venv\lib\site-packages\tornado\ioloop.py:265: DeprecationWarning: There is no current event loop
+  loop = asyncio.get_event_loop()
+
+2022-10-15 13:51:04,008 - kedro.ipython - INFO - No path argument was provided. Using: C:\work\weather_us\weather-us
+2022-10-15 13:51:04,299 - kedro.ipython - INFO - Kedro project weather_us
+2022-10-15 13:51:04,303 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2022-10-15 13:51:41,200 - kedro.io.data_catalog - INFO - Loading data from 'weather_aus_raw' (CSVDataSet)...
+2022-10-15 14:01:44,273 - kedro.io.data_catalog - INFO - Loading data from 'weather_aus_raw' (CSVDataSet)...
+2022-10-15 14:02:16,014 - kedro.io.data_catalog - INFO - Loading data from 'weather_aus_raw' (CSVDataSet)...
+2022-10-15 14:09:49,742 - kedro.ipython - INFO - Kedro project weather_us
+2022-10-15 14:09:49,745 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2022-10-15 14:09:49,768 - py.warnings - WARNING - C:\work\weather_us\venv\lib\site-packages\tornado\ioloop.py:265: DeprecationWarning: There is no current event loop
+  loop = asyncio.get_event_loop()
+
+2022-10-15 14:09:56,214 - kedro.ipython - INFO - No path argument was provided. Using: C:\work\weather_us\weather-us
+2022-10-15 14:09:56,556 - kedro.ipython - INFO - Kedro project weather_us
+2022-10-15 14:09:56,559 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2022-10-15 14:10:29,220 - kedro.io.data_catalog - INFO - Loading data from 'weather_aus_raw' (CSVDataSet)...
+2022-10-17 07:20:43,340 - kedro.ipython - INFO - Kedro project weather_us
+2022-10-17 07:20:43,353 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2022-10-17 07:20:43,410 - py.warnings - WARNING - C:\work\weather_us\venv\lib\site-packages\tornado\ioloop.py:265: DeprecationWarning: There is no current event loop
+  loop = asyncio.get_event_loop()
+
+2022-10-17 07:20:48,878 - kedro.ipython - INFO - No path argument was provided. Using: C:\work\weather_us\weather-us
+2022-10-17 07:20:49,528 - kedro.ipython - INFO - Kedro project weather_us
+2022-10-17 07:20:49,537 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2022-10-17 07:20:59,762 - kedro.io.data_catalog - INFO - Loading data from 'weather_aus_raw' (CSVDataSet)...
+2022-10-17 07:21:41,230 - kedro.ipython - INFO - No path argument was provided. Using: C:\work\weather_us\weather-us
+2022-10-17 07:21:41,700 - kedro.ipython - INFO - Kedro project weather_us
+2022-10-17 07:21:41,700 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2022-10-17 07:22:04,372 - kedro.io.data_catalog - INFO - Loading data from 'weather_aus_raw' (CSVDataSet)...
+2022-10-17 12:15:49,570 - kedro.ipython - INFO - No path argument was provided. Using: C:\work\weather_us\weather-us
+2022-10-17 12:15:50,261 - kedro.ipython - INFO - Kedro project weather_us
+2022-10-17 12:15:50,282 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2022-10-17 12:15:59,154 - kedro.io.data_catalog - INFO - Loading data from 'weather_aus_raw' (CSVDataSet)...
+2022-10-18 09:27:17,254 - kedro.ipython - INFO - Kedro project weather_us
+2022-10-18 09:27:17,262 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2022-10-18 09:27:17,302 - py.warnings - WARNING - C:\work\weather_us\venv\lib\site-packages\tornado\ioloop.py:265: DeprecationWarning: There is no current event loop
+  loop = asyncio.get_event_loop()
+
+2022-10-18 20:46:49,703 - kedro.ipython - INFO - Kedro project weather_us
+2022-10-18 20:46:49,707 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2022-10-18 20:46:49,734 - py.warnings - WARNING - C:\work\weather_us\venv\lib\site-packages\tornado\ioloop.py:265: DeprecationWarning: There is no current event loop
+  loop = asyncio.get_event_loop()
+
+2022-10-19 06:48:18,282 - kedro.ipython - INFO - Kedro project weather_us
+2022-10-19 06:48:18,293 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2022-10-19 06:48:18,356 - py.warnings - WARNING - C:\work\weather_us\venv\lib\site-packages\tornado\ioloop.py:265: DeprecationWarning: There is no current event loop
+  loop = asyncio.get_event_loop()
+
+2022-10-22 11:08:02,277 - kedro.ipython - INFO - Kedro project weather_us
+2022-10-22 11:08:02,293 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2022-10-22 11:08:02,508 - py.warnings - WARNING - c:\work\weather_us\venv\lib\site-packages\tornado\ioloop.py:265: DeprecationWarning: There is no current event loop
+  loop = asyncio.get_event_loop()
+
+2022-10-22 11:24:35,393 - kedro.framework.session.session - INFO - Kedro project weather-us
+2022-10-22 11:26:27,022 - kedro.framework.session.session - INFO - Kedro project weather-us
+2022-10-22 11:39:38,349 - kedro.framework.session.session - INFO - Kedro project weather-us
+2022-10-22 11:39:40,448 - kedro.io.data_catalog - INFO - Loading data from 'weather_aus_raw' (CSVDataSet)...
+2022-10-22 11:39:40,989 - kedro.pipeline.node - INFO - Running node: extract_training_data_node: extract_training_data([weather_aus_raw]) -> [df1]
+2022-10-22 11:39:41,083 - kedro.io.data_catalog - INFO - Saving data to 'df1' (CSVDataSet)...
+2022-10-22 11:39:43,392 - kedro.runner.sequential_runner - INFO - Completed 1 out of 2 tasks
+2022-10-22 11:39:43,396 - kedro.io.data_catalog - INFO - Loading data from 'df1' (CSVDataSet)...
+2022-10-22 11:39:43,876 - kedro.pipeline.node - INFO - Running node: label_encoding_filling_null_node: label_encoding_filling_null([df1]) -> [df2]
+2022-10-22 11:39:44,653 - kedro.io.data_catalog - INFO - Saving data to 'df2' (CSVDataSet)...
+2022-10-22 11:39:46,975 - kedro.runner.sequential_runner - INFO - Completed 2 out of 2 tasks
+2022-10-22 11:39:46,979 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2022-10-22 11:41:54,775 - kedro.framework.session.session - INFO - Kedro project weather-us
+2022-10-22 11:41:56,677 - kedro.io.data_catalog - INFO - Loading data from 'df2' (CSVDataSet)...
+2022-10-22 11:41:57,120 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([df2]) -> [X_train,X_test,y_train,y_test]
+2022-10-22 11:41:57,231 - kedro.io.data_catalog - INFO - Saving data to 'X_train' (MemoryDataSet)...
+2022-10-22 11:41:57,251 - kedro.io.data_catalog - INFO - Saving data to 'X_test' (MemoryDataSet)...
+2022-10-22 11:41:57,259 - kedro.io.data_catalog - INFO - Saving data to 'y_train' (MemoryDataSet)...
+2022-10-22 11:41:57,263 - kedro.io.data_catalog - INFO - Saving data to 'y_test' (MemoryDataSet)...
+2022-10-22 11:41:57,274 - kedro.runner.sequential_runner - INFO - Completed 1 out of 3 tasks
+2022-10-22 11:41:57,279 - kedro.io.data_catalog - INFO - Loading data from 'X_train' (MemoryDataSet)...
+2022-10-22 11:41:57,306 - kedro.io.data_catalog - INFO - Loading data from 'y_train' (MemoryDataSet)...
+2022-10-22 11:41:57,312 - kedro.pipeline.node - INFO - Running node: train_model_node: train_model([X_train,y_train]) -> [logreg]
+2022-10-22 11:42:01,058 - kedro.io.data_catalog - INFO - Saving data to 'logreg' (PickleDataSet)...
+2022-10-22 11:42:01,072 - kedro.runner.sequential_runner - INFO - Completed 2 out of 3 tasks
+2022-10-22 11:42:01,077 - kedro.io.data_catalog - INFO - Loading data from 'logreg' (PickleDataSet)...
+2022-10-22 11:42:01,082 - kedro.io.data_catalog - INFO - Loading data from 'X_test' (MemoryDataSet)...
+2022-10-22 11:42:01,090 - kedro.io.data_catalog - INFO - Loading data from 'y_test' (MemoryDataSet)...
+2022-10-22 11:42:01,096 - kedro.pipeline.node - INFO - Running node: evaluate_model_node: evaluate_model([logreg,X_test,y_test]) -> [y_pred_test,acc]
+2022-10-22 11:42:01,129 - kedro.io.data_catalog - INFO - Saving data to 'y_pred_test' (MemoryDataSet)...
+2022-10-22 11:42:01,137 - kedro.io.data_catalog - INFO - Saving data to 'acc' (MemoryDataSet)...
+2022-10-22 11:42:01,144 - kedro.runner.sequential_runner - INFO - Completed 3 out of 3 tasks
+2022-10-22 11:42:01,149 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2022-10-22 11:42:01,157 - kedro.io.data_catalog - INFO - Loading data from 'acc' (MemoryDataSet)...
+2022-10-22 11:42:01,167 - kedro.io.data_catalog - INFO - Loading data from 'y_pred_test' (MemoryDataSet)...
+2022-10-22 11:42:56,128 - kedro.framework.session.session - INFO - Kedro project weather-us
+2022-10-22 11:42:57,944 - kedro.io.data_catalog - INFO - Loading data from 'weather_aus_raw' (CSVDataSet)...
+2022-10-22 11:42:58,446 - kedro.pipeline.node - INFO - Running node: extract_training_data_node: extract_training_data([weather_aus_raw]) -> [df1]
+2022-10-22 11:42:58,529 - kedro.io.data_catalog - INFO - Saving data to 'df1' (CSVDataSet)...
+2022-10-22 11:43:00,799 - kedro.runner.sequential_runner - INFO - Completed 1 out of 5 tasks
+2022-10-22 11:43:00,803 - kedro.io.data_catalog - INFO - Loading data from 'df1' (CSVDataSet)...
+2022-10-22 11:43:01,257 - kedro.pipeline.node - INFO - Running node: label_encoding_filling_null_node: label_encoding_filling_null([df1]) -> [df2]
+2022-10-22 11:43:01,871 - kedro.io.data_catalog - INFO - Saving data to 'df2' (CSVDataSet)...
+2022-10-22 11:43:03,918 - kedro.runner.sequential_runner - INFO - Completed 2 out of 5 tasks
+2022-10-22 11:43:03,921 - kedro.io.data_catalog - INFO - Loading data from 'df2' (CSVDataSet)...
+2022-10-22 11:43:04,357 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([df2]) -> [X_train,X_test,y_train,y_test]
+2022-10-22 11:43:04,466 - kedro.io.data_catalog - INFO - Saving data to 'X_train' (MemoryDataSet)...
+2022-10-22 11:43:04,489 - kedro.io.data_catalog - INFO - Saving data to 'X_test' (MemoryDataSet)...
+2022-10-22 11:43:04,500 - kedro.io.data_catalog - INFO - Saving data to 'y_train' (MemoryDataSet)...
+2022-10-22 11:43:04,509 - kedro.io.data_catalog - INFO - Saving data to 'y_test' (MemoryDataSet)...
+2022-10-22 11:43:04,526 - kedro.runner.sequential_runner - INFO - Completed 3 out of 5 tasks
+2022-10-22 11:43:04,536 - kedro.io.data_catalog - INFO - Loading data from 'X_train' (MemoryDataSet)...
+2022-10-22 11:43:04,561 - kedro.io.data_catalog - INFO - Loading data from 'y_train' (MemoryDataSet)...
+2022-10-22 11:43:04,568 - kedro.pipeline.node - INFO - Running node: train_model_node: train_model([X_train,y_train]) -> [logreg]
+2022-10-22 11:43:08,241 - kedro.io.data_catalog - INFO - Saving data to 'logreg' (PickleDataSet)...
+2022-10-22 11:43:08,255 - kedro.runner.sequential_runner - INFO - Completed 4 out of 5 tasks
+2022-10-22 11:43:08,261 - kedro.io.data_catalog - INFO - Loading data from 'logreg' (PickleDataSet)...
+2022-10-22 11:43:08,266 - kedro.io.data_catalog - INFO - Loading data from 'X_test' (MemoryDataSet)...
+2022-10-22 11:43:08,277 - kedro.io.data_catalog - INFO - Loading data from 'y_test' (MemoryDataSet)...
+2022-10-22 11:43:08,282 - kedro.pipeline.node - INFO - Running node: evaluate_model_node: evaluate_model([logreg,X_test,y_test]) -> [y_pred_test,acc]
+2022-10-22 11:43:08,305 - kedro.io.data_catalog - INFO - Saving data to 'y_pred_test' (MemoryDataSet)...
+2022-10-22 11:43:08,313 - kedro.io.data_catalog - INFO - Saving data to 'acc' (MemoryDataSet)...
+2022-10-22 11:43:08,322 - kedro.runner.sequential_runner - INFO - Completed 5 out of 5 tasks
+2022-10-22 11:43:08,326 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully.
+2022-10-22 11:43:08,331 - kedro.io.data_catalog - INFO - Loading data from 'y_pred_test' (MemoryDataSet)...
+2022-10-22 11:43:08,336 - kedro.io.data_catalog - INFO - Loading data from 'acc' (MemoryDataSet)...
+2022-10-22 19:14:37,413 - kedro.ipython - INFO - Kedro project weather_us
+2022-10-22 19:14:37,418 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2022-10-22 19:14:40,453 - py.warnings - WARNING - c:\work\weather_us\venv\lib\site-packages\plotly\graph_objects\__init__.py:288: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if LooseVersion(ipywidgets.__version__) >= LooseVersion("7.0.0"):
+
+2022-10-22 19:14:40,486 - kedro.ipython - INFO - Registered line magic 'run_viz'
+2022-10-22 19:14:40,497 - py.warnings - WARNING - c:\work\weather_us\venv\lib\site-packages\tornado\ioloop.py:265: DeprecationWarning: There is no current event loop
+  loop = asyncio.get_event_loop()
+
+2022-10-24 00:22:56,761 - kedro.framework.session.session - INFO - Kedro project weather-us
+2022-10-24 00:27:58,316 - kedro.framework.session.session - INFO - Kedro project weather-us
+2022-10-24 00:28:36,823 - kedro.framework.session.session - INFO - Kedro project weather-us
+2022-10-24 00:28:58,801 - kedro.framework.session.session - INFO - Kedro project weather-us
+2022-10-24 00:30:11,879 - kedro.framework.session.session - INFO - Kedro project weather-us
+2022-10-24 00:35:10,062 - kedro.framework.session.session - INFO - Kedro project weather-us
+2022-10-24 00:36:53,858 - kedro.framework.session.session - INFO - Kedro project weather-us
+2023-01-30 23:39:40,946 - kedro.ipython - INFO - Kedro project weather_us
+2023-01-30 23:39:40,956 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2023-01-30 23:39:45,000 - py.warnings - WARNING - c:\work\weather_us\venv\lib\site-packages\plotly\graph_objects\__init__.py:288: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if LooseVersion(ipywidgets.__version__) >= LooseVersion("7.0.0"):
+
+2023-01-30 23:39:45,046 - kedro.ipython - INFO - Registered line magic 'run_viz'
